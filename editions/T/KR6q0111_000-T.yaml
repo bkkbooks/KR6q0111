@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6q0111/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 讚禪門詩
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2839.xml
+    old_id: T85n2839
+hash: sha256:af1b5f8e1dcd879617ef977ede63cb1b7bb2060f14dd5a63fd3b1eea82681b20
