@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6q0111_000.yaml, hash: 'sha256:af1b5f8e1dcd879617ef977ede63cb1b7bb2060f14dd5a63fd3b1eea82681b20'}
-  - {seq: 1, filename: KR6q0111_001.yaml, hash: 'sha256:038ca99fbc1b6f79fd2281758c6c7fc0929b7cc40bc18cba100022242749ec6b'}
+  - {seq: 1, filename: KR6q0111_001.yaml, hash: 'sha256:86f068e3ec18eda3812d3a9ed2bab75ac4fe4fdc77efcbfff27a53bd745e4120'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0111_001.markers.yaml, hash: 'sha256:33c91f7fc8af7e367c8a94e67958330a002dacd01cf8b0ebeb46929dd48ea3e8'}
+  - {seq: 0, role: markers, filename: assets/KR6q0111_000.markers.yaml, hash: 'sha256:79f4920e82f38a9186b71a7a849bdec95755760be8a0483ebd54c3abb086713f'}
+  - {seq: 1, role: markers, filename: assets/KR6q0111_001.markers.yaml, hash: 'sha256:c911642081985ab20f07353b5d776ee8d9b9b2f380f8df883443e4e0a47c81ef'}
 table_of_contents:
 - ref:
     seq: 1
@@ -41,9 +42,6 @@ table_of_contents:
   label: 讚禪門詩一首
   type: mulu
   level: 1
-hash: sha256:d91414f62a3bd5c631a79596703cf248c6e955ed55cb004fbdf5121b83ae7aa4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8747732bbffef02a04244f83a3bf0e4c8590b3a67c3925c5f84cd08df9c562c7
 editions:
 - short: T
