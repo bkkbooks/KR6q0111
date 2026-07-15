@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6q0111/v1
 canonical_location: https://kanripo.org/bkk/KR6q0111/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 讚禪門詩
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6q0111_000.yaml, hash: 'sha256:af1b5f8e1dcd879617ef977ede63cb1b7bb2060f14dd5a63fd3b1eea82681b20'}
-  - {seq: 1, filename: KR6q0111_001.yaml, hash: 'sha256:86f068e3ec18eda3812d3a9ed2bab75ac4fe4fdc77efcbfff27a53bd745e4120'}
+  - {seq: 1, filename: KR6q0111_001.yaml, hash: 'sha256:735fce92e390635acd146cfabffc11359d1ae8fc034aafecfee961eec78eeec4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6q0111_000.markers.yaml, hash: 'sha256:79f4920e82f38a9186b71a7a849bdec95755760be8a0483ebd54c3abb086713f'}
-  - {seq: 1, role: markers, filename: assets/KR6q0111_001.markers.yaml, hash: 'sha256:c911642081985ab20f07353b5d776ee8d9b9b2f380f8df883443e4e0a47c81ef'}
+  - {seq: 1, role: markers, filename: assets/KR6q0111_001.markers.yaml, hash: 'sha256:3f0ae9a6246917f949f603d092db29c85cf6cdc57aa7babb217030143435a79f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -42,6 +42,9 @@ table_of_contents:
   label: 讚禪門詩一首
   type: mulu
   level: 1
-hash: sha256:8747732bbffef02a04244f83a3bf0e4c8590b3a67c3925c5f84cd08df9c562c7
+hash: sha256:8ba09571354a407688196b06bd3d9fef1152494a7de0888c27ff7f1d81aac6e2
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
